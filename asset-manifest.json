@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Skill-ex/static/css/main.4b499b46.css",
+    "main.js": "/Skill-ex/static/js/main.0432e683.js",
+    "static/js/453.2872add3.chunk.js": "/Skill-ex/static/js/453.2872add3.chunk.js",
+    "index.html": "/Skill-ex/index.html",
+    "main.4b499b46.css.map": "/Skill-ex/static/css/main.4b499b46.css.map",
+    "main.0432e683.js.map": "/Skill-ex/static/js/main.0432e683.js.map",
+    "453.2872add3.chunk.js.map": "/Skill-ex/static/js/453.2872add3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b499b46.css",
+    "static/js/main.0432e683.js"
+  ]
+}
